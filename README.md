@@ -235,5 +235,3 @@ Possible enhancements:
 
 **Raunak kumar**
 ---
-
-If you want, I can also show you **3 GitHub README tricks that make your repo look like a professional open-source project (with badges, stats, and a preview section).**
