@@ -1,8 +1,3 @@
-Here is a **more stylish and professional `README.md`** with **icons, highlights, sections, and better formatting** for GitHub.
-You can **copy this directly into your `README.md`**.
-
----
-
 # 🧑‍💼 Employee Management System (Java)
 
 A **Java console-based Employee Management System** that allows users to manage employee records efficiently.
